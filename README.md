@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vampir1122332@bk.ru
-- 😄 Pronouns: nothing
-- ⚡ Fun fact: nothing
+- 😄 Pronouns: [YouTube](https://www.youtube.com/@vampir_np)
+- ⚡ Fun fact: https://youtu.be/vZZYWqYWXGA?si=NpbgmBYp4WS6pmFf
 
 <!---
 vampirnp/vampirnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
